@@ -631,10 +631,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ad818833-04d3-4176-b449-98b54cfcccab
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: LogicCircles 2024-04-14_17-49-23
+  organizationId: pitt_333
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
